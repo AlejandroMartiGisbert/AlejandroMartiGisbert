@@ -1,7 +1,6 @@
-
-![Development]https://drive.google.com/file/d/1hs36s3CWvnMynI9yQayRiNpKF2hw4Qv8/view?usp=sharing)
-
 ### Hi there 👋, I'm Alejandro Martí
+#### Development
+![Development](https://drive.google.com/uc?export=view&id=1hs36s3CWvnMynI9yQayRiNpKF2hw4Qv8)
 
 I'm Alejandro Martí, I'm a Computer Engineering student and I love creating videogames and applications. You can check my webpage at https://alejandromartigisbert.github.io and my itch-io at https://alejandromg.itch.io
 
