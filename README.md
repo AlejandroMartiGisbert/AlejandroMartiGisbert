@@ -1,5 +1,5 @@
 
-![Development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Development]https://drive.google.com/file/d/1hs36s3CWvnMynI9yQayRiNpKF2hw4Qv8/view?usp=sharing)
 
 ### Hi there 👋, I'm Alejandro Martí
 
