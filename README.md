@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**AlejandroMartiGisbert/AlejandroMartiGisbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-Here are some ideas to get you started:
+### Hi there 👋, I'm Alejandro Martí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm Alejandro Martí, I'm a Computer Engineering student and I love creating videogames and applications. You can check my webpage at https://alejandromartigisbert.github.io and my itch-io at https://alejandromg.itch.io
+
+Skills: C# / JS / HTML / CSS/ Java
+
+- 🔭 I’m currently working on finishing Computer Engineering 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AlejandroMartiGisbert)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/marti_gisbert)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCzXVy7-Thtkssg6bZZq6vZg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://alejandromartigisbert.github.io/)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroMartiGisbert)](https://github.com/anuraghazra/github-readme-stats)
+
